@@ -110,3 +110,5 @@
 	- 01. Greetings
 - Vocabulary
 	- 01. Colors
+- Curiosities
+	- 01. False Cognates
