@@ -3,7 +3,7 @@
 Letters of the alphabet and pronunciation
 
 ||||||
-|-|-|-|-|-|
+|-----------|------------|--------------|-----------|------------|
 |**A** /ei/ |**B** /bi/  |**C** /ci/    |**D** /di/ |**E** /i/   |
 |**F** /éf/ |**G** /dji/ |**H** /eitch/ |**I** /ai/ |**J** /djei/|
 |**K** /kei/|**L** /el/  |**M** /em/    |**N** /en/ |**O** /ou/  |
@@ -14,4 +14,4 @@ Letters of the alphabet and pronunciation
 
 ## Alphabet song
 
-[![Alphabet Song](../source/img/alphabet.jpg)](https://www.youtube.com/watch?v=n9mSbAoRaLs "Alphabet Song")
+[![Alphabet Song](https://github.com/language-solutions/language-english/blob/master/source/img/alphabet-song.jpg)](https://www.youtube.com/watch?v=n9mSbAoRaLs "Alphabet Song")
