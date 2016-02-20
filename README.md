@@ -8,7 +8,7 @@
 - Grammar
   - [Alphabetic](grammar/01-alphabet.md)
   - Numbers
-    - Ordinal numbers
+    - [Ordinal numbers](grammar/02-numbers/01-ordinal-numbers.md)
     - Cardinal numbers
     - Fractional numbers
   - Noun
@@ -114,6 +114,7 @@
   - 01. Colors
 - Curiosities
   - 01. False Cognates
+- [Extras](extras/)
 
 
 ## Contributing
