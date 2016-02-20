@@ -2,7 +2,7 @@
 
 ## Ordinal Numbers from 1 through 1,000,000
 
-||||||
+|||||
 |----------------|---------------------|------------------------|------------------------------|
 |**1 st** first  |**11 th** eleventh   |**21 st** twenty-first  |**31 st** thirty-first        |
 |**2 nd** second |**12 th** twelfth    |**22 nd** twenty-second |**40 th** fortieth            |
