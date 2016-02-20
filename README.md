@@ -9,7 +9,7 @@
   - [Alphabetic](grammar/01-alphabet.md)
   - Numbers
     - [Ordinal numbers](grammar/02-numbers/01-ordinal-numbers.md)
-    - Cardinal numbers
+    - [Cardinal numbers](grammar/02-numbers/02-cardinal-numbers.md)
     - Fractional numbers
   - Noun
     - Abstract Nouns
